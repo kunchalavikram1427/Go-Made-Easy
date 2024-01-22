@@ -3,7 +3,7 @@
 ## Basics
 Get help
 ```sh
-go hel9
+go help
 ```
 Get Go version
 ```sh
