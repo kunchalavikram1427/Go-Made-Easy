@@ -41,10 +41,10 @@ D:\go\bin
 Any commands that you compile using the go install command will be saved to the $GOPATH/bin directory. Putting this directory on the path makes it easy to run commands.
 
 ## Useful Links
-https://go.dev/learn/
-https://github.com/golang-standards/project-layout
-https://go.dev/doc/tutorial/getting-started
-https://go.dev/doc/modules/managing-dependencies#naming_module
-https://pkg.go.dev/
-https://pkg.go.dev/cmd/go
+- https://go.dev/learn/
+- https://github.com/golang-standards/project-layout
+- https://go.dev/doc/tutorial/getting-started
+- https://go.dev/doc/modules/managing-dependencies#naming_module
+- https://pkg.go.dev/
+- https://pkg.go.dev/cmd/go
 
